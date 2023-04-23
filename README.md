@@ -1,2 +1,2 @@
-# Peter-Thinkful-Portfolio
+# Pete-Thinkful-Portfolio
 First Portfolio Web Page 
