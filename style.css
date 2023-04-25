@@ -10,6 +10,7 @@ body {
 
 nav {
   text-align: center;
+  word-spacing: 20px;
 }
 
 a:link {color: #d62828; }
